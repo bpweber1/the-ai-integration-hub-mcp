@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "the-ai-integration-hub": {
+      "type": "http",
+      "url": "https://www.theaiintegrationhub.com/mcp"
+    }
+  }
+}

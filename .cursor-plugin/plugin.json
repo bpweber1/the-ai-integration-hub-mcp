@@ -1,0 +1,21 @@
+{
+  "name": "the-ai-integration-hub",
+  "displayName": "The AI Integration Hub",
+  "version": "1.0.0",
+  "description": "Search 1,000+ vetted AI use cases by industry and workflow, and find AI consulting services to implement them.",
+  "author": {
+    "name": "Integrated AI Solutions LLC",
+    "email": "brad@theaiintegrationhub.com"
+  },
+  "homepage": "https://www.theaiintegrationhub.com/connect",
+  "repository": "https://github.com/bpweber1/the-ai-integration-hub-mcp",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "ai use cases",
+    "ai consultant",
+    "ai for business",
+    "ai ideas",
+    "industry"
+  ]
+}
