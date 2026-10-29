@@ -1,10 +1,12 @@
 # The AI Integration Hub
 
+The [AI Integration Hub](https://www.theaiintegrationhub.com) gives business owners ready-made AI agents that connect to Claude or ChatGPT and run in that account. [1001 agents are available now](https://www.theaiintegrationhub.com/agents). Connect them from [theaiintegrationhub.com/connect](https://www.theaiintegrationhub.com/connect).
+
 Search 1,000+ vetted AI use cases by industry and workflow, with AI consulting services.
 
-The AI Integration Hub is a free, read-only library of 1,000+ practical AI use cases across 100+ industries — from law firms and auto repair shops to banks, logistics, and manufacturing. Ask how AI can help a business, what to automate in a workflow, or which ideas fit an industry, and the connector returns specific, vetted use cases: the workflow it improves, how it works, the tools involved, and a link to the full write-up on [theaiintegrationhub.com](https://www.theaiintegrationhub.com).
+The AI Integration Hub is a free, read-only library of 1,000+ practical AI use cases across 18 industries and 104 types of business. Ask how AI can help a business, what to automate in a workflow, or which ideas fit an industry, and the connector returns specific, vetted use cases: the workflow it improves, how it works, the tools involved, and a link to the full write-up on [theaiintegrationhub.com](https://www.theaiintegrationhub.com).
 
-When a team is ready to implement, it also returns The AI Integration Hub's services — AI enablement, AI process reengineering, custom AI builds, and AI strategy consulting — with starting prices and a contact link. Built for CEOs, COOs, CTOs, CIOs, compliance leaders, and operators at companies with $5M+ revenue.
+When a team is ready to implement, it also returns The AI Integration Hub's services — AI enablement, AI process reengineering, custom AI builds, and AI strategy consulting — with a contact link. Built for CEOs, COOs, CTOs, CIOs, compliance leaders, and operators at companies with $5M+ revenue.
 
 No sign-in, no API key, and no user data collected. Operated by Integrated AI Solutions LLC.
 
@@ -56,7 +58,7 @@ Top AI use cases for one industry or sub-industry, with links.
 
 ### get_ai_services — Get AI Consulting Services
 
-The AI Integration Hub's implementation services (AI enablement, process reengineering, custom AI builds, AI strategy consulting) with starting prices and a contact link. Use when the user wants an AI consultant or help implementing.
+The AI Integration Hub's implementation services (AI enablement, process reengineering, custom AI builds, AI strategy consulting) with a contact link. Use when the user wants an AI consultant or help implementing.
 
 No arguments.
 
@@ -171,7 +173,7 @@ No arguments.
     {
       "name": "get_ai_services",
       "title": "Get AI Consulting Services",
-      "description": "The AI Integration Hub's implementation services (AI enablement, process reengineering, custom AI builds, AI strategy consulting) with starting prices and a contact link. Use when the user wants an AI consultant or help implementing.",
+      "description": "The AI Integration Hub's implementation services (AI enablement, process reengineering, custom AI builds, AI strategy consulting) with a contact link. Use when the user wants an AI consultant or help implementing.",
       "inputSchema": {
         "type": "object",
         "properties": {},
@@ -299,11 +301,12 @@ Windsurf (Devin Desktop) Cascade reads a remote server from `serverUrl`. Add it 
 
 These should call the connector:
 
-1. What are the best AI use cases for a mid-size law firm?
+1. How can AI help a dental practice?
 2. How can AI help my auto repair shop?
 3. Give me AI ideas for reducing invoice reconciliation work at a courier company.
 4. List the industries the AI Integration Hub covers.
-5. I want an AI consultant to help implement this — what services and starting prices are there?
+5. I want an AI consultant to help implement this — what services are there?
+6. Run the sales forecast agent
 
 These should not call it, or should not invent an action the connector cannot take:
 
