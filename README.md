@@ -1,6 +1,8 @@
 # The AI Integration Hub
 
-The [AI Integration Hub](https://www.theaiintegrationhub.com) gives business owners ready-made AI agents that connect to Claude or ChatGPT and run in that account. [1001 agents are available now](https://www.theaiintegrationhub.com/agents). Connect them from [theaiintegrationhub.com/connect](https://www.theaiintegrationhub.com/connect).
+[![The AI Integration Hub on AI Agents Listing](https://aiagentslisting.com/the-ai-integration-hub/badge.svg?claim=dc8882d7f392b36395947ade30e1d507)](https://aiagentslisting.com/mcp/the-ai-integration-hub)
+
+The [AI Integration Hub](https://www.theaiintegrationhub.com) gives business owners ready-made AI agents that connect to Claude or ChatGPT and run in that account. [Over 1,000 agents are available now](https://www.theaiintegrationhub.com/agents). Connect them from [theaiintegrationhub.com/connect](https://www.theaiintegrationhub.com/connect).
 
 Search 1,000+ vetted AI use cases by industry and workflow, with AI consulting services.
 
