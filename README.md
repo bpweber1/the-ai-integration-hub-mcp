@@ -328,6 +328,7 @@ These should not call it, or should not invent an action the connector cannot ta
 | --- | --- |
 | `.cursor-plugin/plugin.json` | Cursor Marketplace manifest. `mcp.json` stays at the repo root, which is where Cursor discovers a single-plugin repository. |
 | `mcp.json` | Remote HTTP server for the Cursor plugin (`type: http`). |
+| `.mcp.json` | Claude Code project config (`mcpServers`, `type: http`). claudeai.directory reads this leading-dot file for install details. Separate from the Cursor plugin `mcp.json`. |
 | `server.json` | Official MCP Registry manifest (`com.theaiintegrationhub/use-cases`). |
 | `glama.json` | Glama maintainer claim for `bpweber1`. |
 | `assets/logo.png`, `assets/logo.svg` | Icons copied from the live site (`/icon-512.png`, `/icon.svg`). |
