@@ -4,11 +4,11 @@
 
 The [AI Integration Hub](https://www.theaiintegrationhub.com) gives business owners ready-made AI agents that connect to Claude or ChatGPT and run in that account. [Over 1,000 agents are available now](https://www.theaiintegrationhub.com/agents). Connect them from [theaiintegrationhub.com/connect](https://www.theaiintegrationhub.com/connect).
 
-Search 1,000+ vetted AI use cases by industry and workflow, with AI consulting services.
+Business owners use it to run ready-made agents inside their own Claude or ChatGPT account, and to search over 1,000 AI use cases by industry and workflow.
 
 The AI Integration Hub is a free, read-only library of 1,000+ practical AI use cases across 18 industries and 104 types of business. Ask how AI can help a business, what to automate in a workflow, or which ideas fit an industry, and the connector returns specific, vetted use cases: the workflow it improves, how it works, the tools involved, and a link to the full write-up on [theaiintegrationhub.com](https://www.theaiintegrationhub.com).
 
-When a team is ready to implement, it also returns The AI Integration Hub's services — AI enablement, AI process reengineering, custom AI builds, and AI strategy consulting — with a contact link. Built for CEOs, COOs, CTOs, CIOs, compliance leaders, and operators at companies with $5M+ revenue.
+Built for small and mid-sized business owners and their teams. Each agent reads a file the owner already keeps and prepares a draft they check before anything is sent or changed. Teams that want help setting things up can reach Integrated AI through the contact link on the site.
 
 No sign-in, no API key, and no user data collected. Operated by Integrated AI Solutions LLC.
 
