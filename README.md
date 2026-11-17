@@ -58,9 +58,9 @@ Top AI use cases for one industry or sub-industry, with links.
 | --- | --- | --- |
 | `slug` | yes | Area slug, sub-industry slug, or `area/sub-industry`. |
 
-### get_ai_services — Get AI Consulting Services
+### get_ai_services — Optional AI consulting
 
-The AI Integration Hub's implementation services (AI enablement, process reengineering, custom AI builds, AI strategy consulting) with a contact link. Use when the user wants an AI consultant or help implementing.
+The Hub has over 1,000 ready-to-run AI agents that small businesses run in their own Claude or ChatGPT account, read-only. Consulting is an optional extra: AI enablement, process reengineering, custom AI builds, and AI strategy consulting, with starting prices and a contact link. Use this when the user asks for an AI consultant or help implementing.
 
 No arguments.
 
@@ -174,8 +174,8 @@ No arguments.
     },
     {
       "name": "get_ai_services",
-      "title": "Get AI Consulting Services",
-      "description": "The AI Integration Hub's implementation services (AI enablement, process reengineering, custom AI builds, AI strategy consulting) with a contact link. Use when the user wants an AI consultant or help implementing.",
+      "title": "Optional AI consulting",
+      "description": "The Hub has over 1,000 ready-to-run AI agents that small businesses run in their own Claude or ChatGPT account, read-only. Consulting is an optional extra: AI enablement, process reengineering, custom AI builds, and AI strategy consulting, with starting prices and a contact link. Use this when the user asks for an AI consultant or help implementing.",
       "inputSchema": {
         "type": "object",
         "properties": {},
